@@ -1,0 +1,14 @@
+<Configure class="org.eclipse.jetty.webapp.WebAppContext">
+  <Set name="contextPath">/</Set>
+  <Set name="war"><SystemProperty name="jetty.data" default="."/>/webapps/reader.war</Set>
+
+  <Call class="java.lang.System" name="setProperty">
+    <Arg>reader.home</Arg>
+    <Arg>/data</Arg>
+  </Call>
+  <Call class="java.lang.System" name="setProperty">
+    <Arg>application.log.enabled</Arg>
+    <Arg>false</Arg>
+  </Call>
+
+</Configure>
