@@ -1,0 +1,11 @@
+com/sismics/reader/rest/TestThemeResource.class
+com/sismics/reader/rest/TestAppResource.class
+com/sismics/reader/rest/TestStarredResource.class
+com/sismics/reader/rest/TestJobResource.class
+com/sismics/reader/rest/TestAllResource.class
+com/sismics/reader/rest/TestLocaleResource.class
+com/sismics/reader/rest/TestUserResource.class
+com/sismics/reader/rest/TestSearchResource.class
+com/sismics/reader/rest/TestSubscriptionResource.class
+com/sismics/reader/rest/TestSecurity.class
+com/sismics/reader/rest/TestCategoryResource.class

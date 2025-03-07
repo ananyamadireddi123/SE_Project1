@@ -1,0 +1,16 @@
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/util/TestAdblockUtil.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/util/TestArticleSanitizer.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/util/TestDateUtil.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/util/TestResourceUtil.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/util/TestNetworkUtil.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/util/TestTextSanitizer.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/reader/core/dao/file/html/TestFaviconDownloader.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/reader/core/dao/file/html/TestRssExtractor.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/util/TestCertUtil.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/reader/BaseTransactionalTest.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/reader/core/dao/jpa/TestJpa.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/reader/core/dao/file/html/TestFaviconExtractor.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/reader/core/dao/file/json/TestStarredReader.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/reader/core/dao/file/opml/TestOpmlReader.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/util/TestUrlUtil.java
+/home/ananya/Music/SEM_3_2/SE/project-1-team-23/reader-core/src/test/java/com/sismics/reader/core/dao/file/rss/TestRssReader.java

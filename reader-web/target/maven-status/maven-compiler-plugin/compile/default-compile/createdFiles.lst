@@ -1,0 +1,17 @@
+com/sismics/reader/rest/resource/AllResource.class
+com/sismics/reader/rest/resource/UserResource.class
+com/sismics/reader/rest/resource/JobResource.class
+com/sismics/reader/rest/resource/ArticleResource.class
+com/sismics/reader/rest/resource/CategoryResource.class
+com/sismics/reader/rest/constant/BaseFunction.class
+com/sismics/reader/rest/resource/AppResource.class
+com/sismics/reader/rest/resource/StarredResource.class
+com/sismics/reader/rest/util/ValidationUtil.class
+com/sismics/reader/rest/resource/ThemeResource.class
+com/sismics/reader/rest/assembler/ArticleAssembler.class
+com/sismics/reader/rest/resource/LocaleResource.class
+com/sismics/reader/rest/dao/ThemeDao.class
+com/sismics/reader/rest/resource/SearchResource.class
+com/sismics/reader/rest/resource/SubscriptionResource.class
+com/sismics/reader/rest/resource/TextPlainMessageBodyWriter.class
+com/sismics/reader/rest/resource/BaseResource.class

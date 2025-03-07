@@ -1,0 +1,13 @@
+com/sismics/rest/util/JsonUtil.class
+com/sismics/util/filter/HeaderBasedSecurityFilter.class
+com/sismics/rest/exception/ForbiddenClientException.class
+com/sismics/rest/exception/ClientException.class
+com/sismics/util/filter/TokenBasedSecurityFilter.class
+com/sismics/rest/util/ValidationUtil.class
+com/sismics/rest/exception/ServerException.class
+com/sismics/rest/resource/GenericExceptionMapper.class
+com/sismics/security/AnonymousPrincipal.class
+com/sismics/util/filter/RequestContextFilter.class
+com/sismics/security/IPrincipal.class
+com/sismics/security/UserPrincipal.class
+com/sismics/util/filter/SecurityFilter.class
